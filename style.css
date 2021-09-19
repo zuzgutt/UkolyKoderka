@@ -1,0 +1,70 @@
+body {
+    line-height: 1.5;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 1200;
+    color:black;
+    text-align: left;
+}
+
+.kontakt {
+    margin-left: 30px;
+    background-color: white;
+    line-height: 0.5;
+    font-style: italic;
+   
+}
+h2 {
+    font-size: 20px;
+    font-style: italic;
+    color:rgb(45, 67, 109);
+}
+
+h3 {
+    font-style: bold;
+}
+
+img {
+    width: 300px;
+    float: left;
+    border: 1px solid black;
+    border-radius: 50% 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+  
+
+}
+
+.omne {
+    margin: 100px 50px 50px 50px;
+    padding: 100px 50px 50px 50px;
+    
+        
+}
+.zamestnania {
+    margin: 20px 50px;
+    padding: 50px;
+}
+
+.vzdelanie {
+    margin: 20px 50px;
+    padding: 50px;
+}
+
+
+.znalostiAschopnosti {
+    margin: 20px 50px 20px 50px;
+    padding: 50px;
+}
+section {
+    
+    background-color: #DCDCDC;
+    text-align: justify;
+}
